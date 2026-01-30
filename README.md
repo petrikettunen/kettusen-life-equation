@@ -65,7 +65,7 @@ While the model shares surface similarities with the butterfly effect, it differ
 
 Chaos theory describes deterministic systems without agency.
 
-**Kettusen Life Equation explicitly includes choice, memory, and adaptation.**
+**The Kettunen Life Equation explicitly includes choice, memory, and adaptation.**
 
 ---
 
@@ -82,11 +82,11 @@ Its value lies in structuring thought, not calculation.
 ## Authorship
 
 **Petri Kettunen**  
-Creator of *Kettusen Life Equation*
+Creator of *The Kettunen Life Equation*
 
 ---
 
 ## Usage and Attribution
 
 If referenced, attribution to the author and the name  
-**“Kettusen Life Equation”** is expected.
+**“The Kettunen Life Equation”** is expected.
