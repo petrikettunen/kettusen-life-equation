@@ -1,6 +1,6 @@
-# Kettusen Life Equation
+# The Kettunen Life Equation
 
-**Kettusen Life Equation** is a philosophical model developed by **Petri Kettunen**.
+**The Kettunen Life Equation** is a philosophical model developed by **Petri Kettunen**.
 
 It describes life as a probability-based state transition system, where outcomes emerge from chains of events and choices rather than single actions.
 
